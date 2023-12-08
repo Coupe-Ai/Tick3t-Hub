@@ -1,5 +1,5 @@
-# Tick3t-Hub
-Web3 Ticket Services &amp; Digital Asset Merchandising
+# Tick3t-Hub: Web3 Ticket Services
+
 Introduction Of NFTs To Ticketing
 NFTs are set to disrupt the world of ticketing. They have the potential to fix a host of enduring problems that have plagued the industry for years. This is because ownership of NFTs can be verified using a decentralised, secure, and transparent ledger system, known as the blockchain.
 
